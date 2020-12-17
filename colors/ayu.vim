@@ -18,7 +18,7 @@ let s:palette.bg        = {'dark': "#0F1419",  'light': "#FAFAFA",  'mirage': "#
 
 let s:palette.comment   = {'dark': "#5C6773",  'light': "#ABB0B6",  'mirage': "#5C6773"}
 let s:palette.markup    = {'dark': "#F07178",  'light': "#F07178",  'mirage': "#F07178"}
-let s:palette.constant  = {'dark': "#FFEE99",  'light': "#A37ACC",  'mirage': "#D4BFFF"}
+let s:palette.constant  = {'dark': "#FB8500",  'light': "#A37ACC",  'mirage': "#D4BFFF"}
 let s:palette.operator  = {'dark': "#E7C547",  'light': "#E7C547",  'mirage': "#80D4FF"}
 let s:palette.tag       = {'dark': "#06D6A0",  'light': "#36A3D9",  'mirage': "#06D6A0"}
 let s:palette.regexp    = {'dark': "#95E6CB",  'light': "#4CBF99",  'mirage': "#95E6CB"}
